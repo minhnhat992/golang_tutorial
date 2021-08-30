@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 	"math"
-	"undefined/src/github.com/einsteinis/go_tutorial/string_util"
+	"golang_turorial/src/github.com/einsteinis/go_tutorial/string_util"
 
 
 )
